@@ -1,0 +1,7 @@
+BookRental\PolicyHandler.class
+BookRental\RentalStatus.class
+BookRental\RentalStatusRepository.class
+BookRental\RentalStatusViewHandler.class
+BookRental\config\kafka\KafkaProcessor.class
+BookRental\AbstractEvent.class
+BookRental\Application.class
